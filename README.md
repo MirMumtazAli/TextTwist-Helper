@@ -27,4 +27,7 @@ A Python program that allows users to perform various string operations by enter
 - Input: `hello`
 - Operation: 1 (UPPERCASE)
 - Output: `HELLO`
+
+## Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests to enhance the functionality.
   
