@@ -1,4 +1,4 @@
-# String Manipulation Program
+# TextTwist Helper
 
 ## Overview
 A Python program that allows users to perform various string operations by entering a string and selecting from a menu of 10 options.
