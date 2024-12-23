@@ -3,9 +3,6 @@
 ## Overview
 A Python program that allows users to perform various string operations by entering a string and selecting from a menu of 10 options.
 
-## Prerequisites
-- Python 3.x installed.
-
 ## Features
 1. **Convert to UPPERCASE**: `string.upper()`
 2. **Convert to lowercase**: `string.lower()`
